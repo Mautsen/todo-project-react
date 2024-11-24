@@ -1,5 +1,5 @@
 # TODO React Project
-Really simple React project done as a part of a frontend course (kinda makes me giggle now...)
+Really simple React project done as a part of a frontend course (kinda makes me giggle now...).
 Uses json-server as a mockup database to store the tasks and tags.
 
 ## How to run?
