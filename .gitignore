@@ -1,0 +1,25 @@
+# Node.js riippuvuudet
+node_modules/
+
+# Väliaikaiset tiedostot
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment- ja salaiset tiedostot
+.env
+
+# Testauksen välimuisti
+coverage/
+
+# IDE:iden luomat tiedostot
+.vscode/
+.idea/
+
+# OS-spesifiset tiedostot
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Buildin tuottamat tiedostot
+/dist
+/build
